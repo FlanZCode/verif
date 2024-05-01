@@ -17,7 +17,7 @@ The project contains several main functions to send verification codes by email 
 To send an email, you can use the `sendMail` function. This function generates a random verification code, sends it by email to the user, and stores the code for later verification.
 
 ### Send an SMS
-To send an SMS, you can use the `sendTwilioMessage` or `sendVonageMessage` functions. These functions generate a random verification code, send it by SMS to the user, and store the code for later verification.
+To send an SMS, you can use the `sendTwilioMessage` or `sendVonageMessage` functions. These functions generate a random verification code, send it by SMS to the user, and store the code for later verification. (Only works with Twilio and Vonage for the moment)
 
 ### Verify a code
 To verify a code, you can use the `verifyCode` function. This function checks if the provided code matches the stored code for the user.
