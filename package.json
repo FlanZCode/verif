@@ -1,6 +1,6 @@
 {
   "name": "verif",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Check if the data is correct",
   "main": "index.js",
   "scripts": {
