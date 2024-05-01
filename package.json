@@ -1,6 +1,6 @@
 {
   "name": "verif",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Check if the data is correct",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "security",
     "validation",
     "email",
-    "phone"
+    "phone",
+    "twilio",
+    "vonage"
   ],
   "author": "FlanZ",
   "license": "MIT",
