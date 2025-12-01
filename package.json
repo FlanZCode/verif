@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@vonage/server-sdk": "^3.14.0",
-    "nodemailer": "^6.9.13",
+    "nodemailer": "^7.0.11",
     "twilio": "^5.0.4"
   }
 }
